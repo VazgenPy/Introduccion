@@ -1,0 +1,6 @@
+a = int(input("Pon el primer numero: "))
+b = int(input("Pon el segundo numero: "))
+c = int(input("Pon el tercer numero: "))
+d = int(input("Pon el quarto numero: "))
+x = int(input("Pon la incognita: "))
+print("El resultado es: " , a*x**3 + b*x**2 + c*x + d)
